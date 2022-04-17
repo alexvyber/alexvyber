@@ -15,8 +15,8 @@ Here are some ideas to get you started:
 ⚡ Fun fact: ...<br />
 <br />
 
-[WebSite ››](https://alexvyber.fun/) <br />
-[LinkedIn ››](https://linkedin.com/in/alexvyber/) <br />
+**[WebSite ››](https://alexvyber.fun/)** <br />
+[LinkedIn ››](https://www.linkedin.com/in/alexvyber/) <br />
 [Twitter ››](https://twitter.com/alexvyber/) <br />
 [Instagram ››](https://instagram.com/alexvyber/) <br />
 <br />
