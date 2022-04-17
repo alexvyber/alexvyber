@@ -1,4 +1,4 @@
-![Cover](https://raw.githubusercontent.com/alexvyber/alexvyber/main/SAM_808411.jpg) 
+![Cover](https://raw.githubusercontent.com/alexvyber/alexvyber/main/SAM_808412.jpg) 
 <br />
 <br />
 **alexvyber/alexvyber** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
