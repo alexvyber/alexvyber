@@ -1,7 +1,7 @@
 ![Cover](https://raw.githubusercontent.com/alexvyber/alexvyber/main/SAM_808412.jpg) 
 <br />
 <br />
-Heelo! I'm Alexey Sokolov and here are my ten commandments:
+Heelo! I'm Alexey Sokolov and here is my ten commandments:
 1. I am the Language your Go. You shall not have strange languages before me.
 2. You shall always take the name of the Lord not your JavaScript in vain.
 3. Remember to commit everyday.
