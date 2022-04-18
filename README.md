@@ -8,7 +8,7 @@ Heelo! I'm Alexey Sokolov and here are my ten commandments:
 4. Honor your classes and your inheritance.
 5. You shall not flood.
 6. You shall not commit without propper message.
-7. You shall not write a line of Perl, unless you absolutely have.
+7. You shall not write a line of Perl, unless you absolutely have to.
 8. You shall not bear false comments about your code.
 9. You shall not covet your neighbor’s dotfiles.
 10. You shall not covet your neighbor’s new MacBook.
