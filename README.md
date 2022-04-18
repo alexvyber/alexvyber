@@ -1,7 +1,7 @@
 ![Cover](https://raw.githubusercontent.com/alexvyber/alexvyber/main/SAM_808412.jpg) 
 <br />
 <br />
-Heelo! I'm Alexey Sokolov and here is my ten commandments:
+<!-- Heelo! I'm Alexey Sokolov and here is my ten commandments:
 1. I am the Language your Go. You shall not have strange languages before me.
 2. You shall always take the name of the Lord not your JavaScript in vain.
 3. Remember to commit everyday.
@@ -13,7 +13,7 @@ Heelo! I'm Alexey Sokolov and here is my ten commandments:
 9. You shall not covet your neighbor’s dotfiles.
 10. You shall not covet your neighbor’s new MacBook.
 <br />
-<br />
+<br /> -->
 🔭 I’m currently working on ...<br />
 🌱 I’m currently learning ...<br />
 👯 I’m looking to collaborate on ...<br />
@@ -22,6 +22,7 @@ Heelo! I'm Alexey Sokolov and here is my ten commandments:
 📫 How to reach me: ...<br />
 😄 Pronouns: ...<br />
 ⚡ Fun fact: ...<br />
+<br />
 <br />
 
 **[WebSite ››](https://alexvyber.fun/)** <br />
