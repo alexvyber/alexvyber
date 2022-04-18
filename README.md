@@ -1,8 +1,17 @@
 ![Cover](https://raw.githubusercontent.com/alexvyber/alexvyber/main/SAM_808412.jpg) 
 <br />
 <br />
-**alexvyber/alexvyber** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
-Here are some ideas to get you started:
+Heelo! I'm Alexey Sokolov and here are my ten commandments:
+1. I am the Language your Go. You shall not have strange languages before me.
+2. You shall always take the name of the Lord not your JavaScript in vain.
+3. Remember to commit everyday.
+4. Honor your classes and your inheritance.
+5. You shall not flood.
+6. You shall not commit without propper message.
+7. You shall not write a line of Perl, unless you absolutely have.
+8. You shall not bear false comments about your code.
+9. You shall not covet your neighbor’s dotfiles.
+10. You shall not covet your neighbor’s new MacBook.
 <br />
 <br />
 🔭 I’m currently working on ...<br />
