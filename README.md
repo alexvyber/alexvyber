@@ -24,7 +24,7 @@
 ⚡ Fun fact: ...<br />
 <br />
 <br /> -->
-**[WebSite ››](https://alexvyber.space/)** <br />
+**[WebSite ››](https://alexvyber.dev/)** <br />
 [LinkedIn ››](https://www.linkedin.com/in/alexvyber/) <br />
 [Twitter ››](https://twitter.com/alexvyber/) <br />
 [Instagram ››](https://instagram.com/alexvyber/) <br />
